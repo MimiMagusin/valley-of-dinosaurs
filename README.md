@@ -1,24 +1,27 @@
-# README
+<h1> Valleys Of Dinosaurs </h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The very first project of the 9 week intensive program at Codaisseur. It explores the most basic functions of rails (according to CRUD) such as diplaying an index and a showpage and adding, editing and deleting instances of models. Also some basic one-to-many associations have been set up. 
 
-Things you may want to cover:
+<h3>Getting Started</h3>
+ <ul>
+  <li>Just open the project, run ```bundle install```  and open your rails server!</li>
+ </ul>
 
-* Ruby version
+<h3>Running the tests</h3>
+ <ul>
+  <li>No tests have been written for this project, for examples of tests, see later projects, such as <i>Codaisseurify</i>!</li>
+ </ul>
 
-* System dependencies
 
-* Configuration
+<h3>Built With</h3>
+ <ul>
+  <li>Rails</li>
+ </ul>
 
-* Database creation
+<h3>Author</h3>
+ <ul>
+  <li>Mimi Magusin, based on the reader of Codaisseur Academy.</li>
+ </ul>
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
